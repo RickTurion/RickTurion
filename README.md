@@ -31,6 +31,13 @@
 <div> 
   <a href = "mailto:rickturion2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/henrique-cunha-de-paula/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
 
 </div> 
+
+<p align="right">
+  <span style="font-size: 2px; font-style: italic;">
+    Snake Animation é legal né? Créditos ao <a href="https://github.com/Platane">https://github.com/Platane</a>
+  </span>
+</p>
 
